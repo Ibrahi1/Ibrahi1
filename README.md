@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim BERRADI</h1>
-<h3 align="center">A passionate Full-stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full-stack developer and AI & Data Science Master's Student from Pakistan</h3>
 <img align="right" alt="coding" width="480" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Big Data Tools**
