@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim BERRADI</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
+<img align="right" alt="coding" width="480" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahi1&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahi1" /> </p>
 
