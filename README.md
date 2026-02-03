@@ -2,7 +2,11 @@
 <h3 align="center">Full-Stack Developer | AI & Data Science Master's Student 🇲🇦</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400"/>
+  <img src="https://github.com/ibrahi1.png" alt="Ibrahim BERRADI" width="200" style="border-radius: 50%; border: 5px solid #0077B5;"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Big+Data+Explorer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
